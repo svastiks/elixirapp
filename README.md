@@ -1,6 +1,6 @@
 # Elixirapp
 
-**TODO: Add description**
+**TODO: Starter demo rest_api**
 
 ## Installation
 
