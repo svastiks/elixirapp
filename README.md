@@ -1,4 +1,4 @@
 # Elixirapp
 
-**TODO: Starter demo rest_api**
+**Demo rest_api**
 
